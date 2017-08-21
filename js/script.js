@@ -1,5 +1,5 @@
-a = -1.76;
-b = 3.22;
+var a = -1.76;
+var b = 3.22;
 var value = (a * a) + (2 * a * b) - (b * b);
 console.log("Value = " + value);
 if (value < 0) {
